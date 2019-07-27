@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:position="http://www.w3.org/1999/xhtml" xmlns:width="http://www.w3.org/1999/xhtml">
+<head>
+    <title>SmartPortables</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="keywords" content=""/>
+    <meta name="description" content=""/>
+    <link href="style.css" rel="stylesheet" type="text/css" media="screen"/>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+          integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+
+    <script>
+<!-- jqurey script -->
+$(document).ready(function(){
+    var carousel = $('#myCarousel');
+
+    if (carousel != null) {
+	$('#myCarousel').carousel({
+       interval: 2000
+    });
+
+    $('.carousel .item').each(function(){
+       var next = $(this).next();
+       if (!next.length) {
+       next = $(this).siblings(':first');
+    }
+    next.children(':first-child').clone().appendTo($(this));
+});
+  }
+});
+
+
+    </script>
+    <style>
+* {
+		box-sizing : unset;
+	}
+
+.col-md-6{
+		width : 45% ! important;
+	}
+
+    </style>
+</head>
+
+<body style='margin: 0px !important; padding: 0 !important;	background: floralwhite !important;	font-family: Georgia, "Times New Roman", Times, serif;	font-size: 12px !important;	' onload="init()">
+<script type="text/javascript" src="autocomplete.js"></script>
+<!-- Start #logo top content of the webpage-->
+<div id="logo">
+    <table style="float: left">
+        <tr>
+            <td style="valign: top;"><img src="images/logo.png" alt="Logo"
+                                          style="height: 60px"/></td>
+            <td><h1>
+                <a href="Home" style="color:#27a52f">Smart Portables</a>
+            </h1></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><p>
+            </p></td>
+        </tr>
+    </table>
+    <div style="float: right; margin-right: 0% !important;">
+        <div name="autofillform">
+            <nav class="navbar navbar-light">
+                <form>
+                    <input id="searchId" class="form-control mr-sm-2" type="search" placeholder="Search a product.." onkeyup="showAutoCompletion()"/>
+
+                    <div id="auto-row">
+                        <table id="complete-table" class="gridtable mr-sm-2" style="position: absolute"></table>
+                    </div>
+                </form>
+            </nav>
+        </div>
+    </div>
+</div>
+
+<hr/>
+<!-- end #logo -->
+<!-- start #header -->
+<!-- menu in header area the header div ends in utility file where header content right side link gets populated with login id cart and logout option -->
+<div id="header">
+    <div id="menu">
+        <ul>
+
+            <li class="nav-item"><a href="Home"><span class="glyphicon glyphicon-home">Home</span></a></li>
+            <li><a href="ProductList?category=Wearable"><span class="glyphicon">Wearable</span></a></li>
+            <li><a href="ProductList?category=Phone"><span class="glyphicon glyphicon-phone">Phone</span></a></li>
+            <li><a href="ProductList?category=Laptop"><span class="glyphicon">Laptop</span></a></li>
+            <li><a href="ProductList?category=Speaker"><span class="glyphicon">Speaker</span></a></li>
+            <li><a href="ProductList?category=Accessory"><span class="glyphicon">Accessory</span></a></li>
+        </ul>
+    </div>
+</div>
+<!-- end #menu -->
+

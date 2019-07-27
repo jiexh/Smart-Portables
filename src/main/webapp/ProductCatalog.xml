@@ -1,0 +1,1485 @@
+<ProductCatalog>
+    <Product>
+        <id>Apple1</id>
+        <name>Watch Series 1</name>
+        <price>209.99</price>
+        <image>series1.jpg</image>
+        <category>Wearable</category>
+        <subcategory>Smart Watches</subcategory>
+        <condition>New</condition>
+        <discount>0</discount>
+        <accessoryIds></accessoryIds>
+        <manufacturer>Apple</manufacturer>
+        <manufacturerRebate>33</manufacturerRebate>
+        <inventoryCount>66</inventoryCount>
+    </Product>
+    <Product>
+        <id>Apple2</id>
+        <name>Nike Series 3</name>
+        <price>309.99</price>
+        <image>nikeSeries3.jpg</image>
+        <category>Wearable</category>
+        <subcategory>Smart Watches</subcategory>
+        <condition>New</condition>
+        <discount>50</discount>
+        <accessoryIds></accessoryIds>
+        <manufacturer>Apple</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>45</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>Apple3</id>
+        <name>Watch Series 3</name>
+        <price>299.99</price>
+        <image>series3.jpg</image>
+        <category>Wearable</category>
+        <subcategory>Smart Watches</subcategory>
+        <condition>New</condition>
+        <discount>0</discount>
+        <accessoryIds></accessoryIds>
+        <manufacturer>Apple</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>66</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>Apple4</id>
+        <name>Watch Series 4</name>
+        <price>429.99</price>
+        <image>series4.jpg</image>
+        <category>Wearable</category>
+        <subcategory>Smart Watches</subcategory>
+        <condition>New</condition>
+        <discount>0</discount>
+        <accessoryIds></accessoryIds>
+        <manufacturer>Apple</manufacturer>
+        <manufacturerRebate>24.99</manufacturerRebate>
+        <inventoryCount>34</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>bose1</id>
+        <name>Beoplay H8i</name>
+        <price>149.99</price>
+        <image>boseSoundSport.jpg</image>
+        <category>Wearable</category>
+        <subcategory>Headphone</subcategory>
+        <condition>New</condition>
+        <discount>0</discount>
+        <accessoryIds>HeadphoneAcc1</accessoryIds>
+        <manufacturer>Bang and Olufsen</manufacturer>
+        <manufacturerRebate>29.99</manufacturerRebate>
+        <inventoryCount>66</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>bose2</id>
+        <name>Sound Link</name>
+        <price>249.99</price>
+        <image>boseSoundLink.jpg</image>
+        <category>Wearable</category>
+        <subcategory>Head phone</subcategory>
+        <condition>New</condition>
+        <discount>10</discount>
+        <accessoryIds>HeadphoneAcc1</accessoryIds>
+        <manufacturer>Bose</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>87</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>Bose3</id>
+        <name>Triple Driver Wireless</name>
+        <price>379.99</price>
+        <image>quiteComfort35.jpg</image>
+        <category>Wearable</category>
+        <subcategory>Headphone</subcategory>
+        <condition>New</condition>
+        <discount>20</discount>
+        <accessoryIds>HeadphoneAcc1</accessoryIds>
+        <manufacturer>1More</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>Chromebook256Storage</id>
+        <name>Chromebook 256GB</name>
+        <price>799.99</price>
+        <image>samChromebook256.jpg</image>
+        <category>Laptop</category>
+        <subcategory></subcategory>
+        <condition>Used</condition>
+        <discount>200</discount>
+        <accessoryIds>samAdaptor</accessoryIds>
+        <manufacturer>Samsung</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>Chromebook512Storage</id>
+        <name>Chromebook 512GB</name>
+        <price>999.99</price>
+        <image>samChromebook512.jpg</image>
+        <category>Laptop</category>
+        <subcategory></subcategory>
+        <condition>New</condition>
+        <discount>0</discount>
+        <accessoryIds></accessoryIds>
+        <manufacturer>Samsung</manufacturer>
+        <manufacturerRebate>9.99</manufacturerRebate>
+        <inventoryCount>99</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>DellVR</id>
+        <name>Mirage Solo</name>
+        <price>449.99</price>
+        <image>dellGeekSquad.jpg</image>
+        <category>Wearable</category>
+        <subcategory>Virtual Reality</subcategory>
+        <condition>New</condition>
+        <discount>149</discount>
+        <accessoryIds></accessoryIds>
+        <manufacturer>Dell</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>Echo</id>
+        <name>Echo</name>
+        <price>99.99</price>
+        <image>Echo.jpg</image>
+        <category>Speaker</category>
+        <subcategory></subcategory>
+        <condition>New</condition>
+        <discount>0</discount>
+        <accessoryIds>TP-Link-Echo-Home</accessoryIds>
+        <manufacturer>Amazon</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>EchoPlus</id>
+        <name>Echo Plus</name>
+        <price>119.99</price>
+        <image>echoPlus.jpg</image>
+        <category>Speaker</category>
+        <subcategory>NULL</subcategory>
+        <condition>New</condition>
+        <discount>10</discount>
+        <accessoryIds>TP-Link-Echo-Home</accessoryIds>
+        <manufacturer>Amazon</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>EchoShow</id>
+        <name>Echo Show</name>
+        <price>229.99</price>
+        <image>echoShow.jpg</image>
+        <category>Speaker</category>
+        <subcategory></subcategory>
+        <condition>New</condition>
+        <discount>0</discount>
+        <accessoryIds>TP-Link-Echo-Home</accessoryIds>
+        <manufacturer>Amazon</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>EchoSport</id>
+        <name>Echo Sport</name>
+        <price>129.99</price>
+        <image>echoSport.jpg</image>
+        <category>Speaker</category>
+        <subcategory></subcategory>
+        <condition>New</condition>
+        <discount>0</discount>
+        <accessoryIds>TP-Link-Echo-Home</accessoryIds>
+        <manufacturer>Amazon</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>Findster1</id>
+        <name>Findster</name>
+        <price>149</price>
+        <image>findsterTracker.jpg</image>
+        <category>Wearable</category>
+        <subcategory>Pet Tracker</subcategory>
+        <condition>New</condition>
+        <discount>0</discount>
+        <accessoryIds></accessoryIds>
+        <manufacturer>Findster</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>Fitbit-1</id>
+        <name>Fitbit Alta HR</name>
+        <price>149.95</price>
+        <image>fitbitAltaHR.jpg</image>
+        <category>Wearable</category>
+        <subcategory>Fitness Watches</subcategory>
+        <condition>New</condition>
+        <discount>10</discount>
+        <accessoryIds>FitbitAcc1</accessoryIds>
+        <manufacturer>Fitbit</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>Fitbit-2</id>
+        <name>Charge3</name>
+        <price>119.95</price>
+        <image>charge3.jpg</image>
+        <category>Wearable</category>
+        <subcategory>Fitness Watches</subcategory>
+        <condition>New</condition>
+        <discount>5</discount>
+        <accessoryIds>FitbitAcc1</accessoryIds>
+        <manufacturer>Fitbit</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>Fitbit-3</id>
+        <name>Versa</name>
+        <price>149.95</price>
+        <image>versa.jpg</image>
+        <category>Wearable</category>
+        <subcategory>Fitness Watches</subcategory>
+        <condition>New</condition>
+        <discount>10</discount>
+        <accessoryIds>FitbitAcc1</accessoryIds>
+        <manufacturer>Fitbit</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>Fitbit-4</id>
+        <name>Ace</name>
+        <price>139.95</price>
+        <image>ace.jpg</image>
+        <category>Wearable</category>
+        <subcategory>Fitness Watches</subcategory>
+        <condition>New</condition>
+        <discount>10</discount>
+        <accessoryIds>FitbitAcc1</accessoryIds>
+        <manufacturer>Fitbit</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>Fitbit-5</id>
+        <name>Iconic</name>
+        <price>249.95</price>
+        <image>iconic.jpg</image>
+        <category>Wearable</category>
+        <subcategory>Fitness Watches</subcategory>
+        <condition>New</condition>
+        <discount>30</discount>
+        <accessoryIds>FitbitAcc1</accessoryIds>
+        <manufacturer>Fitbit</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>Fitbit-6</id>
+        <name>Flex2</name>
+        <price>59.95</price>
+        <image>flex2.jpg</image>
+        <category>Wearable</category>
+        <subcategory>Fitness Watches</subcategory>
+        <condition>New</condition>
+        <discount>0</discount>
+        <accessoryIds>FitbitAcc1</accessoryIds>
+        <manufacturer>Fitbit</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>FitbitAcc1</id>
+        <name>Band</name>
+        <price>69.99</price>
+        <image>fitbitAcc.jpg</image>
+        <category>Accessory</category>
+        <subcategory></subcategory>
+        <condition>New</condition>
+        <discount>0</discount>
+        <accessoryIds></accessoryIds>
+        <manufacturer>Fitbit</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>Garmin1</id>
+        <name>Fenix 5</name>
+        <price>599.99</price>
+        <image>fenix5.jpg</image>
+        <category>Wearable</category>
+        <subcategory>Smart Watches</subcategory>
+        <condition>New</condition>
+        <discount>0</discount>
+        <accessoryIds></accessoryIds>
+        <manufacturer>Garmin</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>Garmin2</id>
+        <name>Fenix 5S</name>
+        <price>799.99</price>
+        <image>fenix5S.jpg</image>
+        <category>Wearable</category>
+        <subcategory>Smart Watches</subcategory>
+        <condition>New</condition>
+        <discount>0</discount>
+        <accessoryIds></accessoryIds>
+        <manufacturer>Garmin</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>Go Findr</id>
+        <name>GoFindr</name>
+        <price>249</price>
+        <image>gofindr.jpg</image>
+        <category>Wearable</category>
+        <subcategory>Pet Tracker</subcategory>
+        <condition>New</condition>
+        <discount>0</discount>
+        <accessoryIds></accessoryIds>
+        <manufacturer>GoFinder</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>HeadphoneAcc1</id>
+        <name>Headphone Adapter</name>
+        <price>16</price>
+        <image>wearableAcc.jpg</image>
+        <category>Accessory</category>
+        <subcategory></subcategory>
+        <condition>New</condition>
+        <discount>0</discount>
+        <accessoryIds></accessoryIds>
+        <manufacturer>DTWest</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>Home</id>
+        <name>Google Home</name>
+        <price>129.99</price>
+        <image>Home.jpg</image>
+        <category>Speaker</category>
+        <subcategory>NULL</subcategory>
+        <condition>New</condition>
+        <discount>0</discount>
+        <accessoryIds>TP-Link-Echo-Home</accessoryIds>
+        <manufacturer>Google</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>93</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>HomeMax</id>
+        <name>Home Max</name>
+        <price>399.99</price>
+        <image>homeMax.jpg</image>
+        <category>Speaker</category>
+        <subcategory>NULL</subcategory>
+        <condition>New</condition>
+        <discount>0</discount>
+        <accessoryIds>TP-Link-Echo-Home</accessoryIds>
+        <manufacturer>Google</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>HomeMini</id>
+        <name>Home Mini</name>
+        <price>49.99</price>
+        <image>HomeMini.jpg</image>
+        <category>Speaker</category>
+        <subcategory>NULL</subcategory>
+        <condition>New</condition>
+        <discount>0</discount>
+        <accessoryIds>TP-Link-Echo-Home</accessoryIds>
+        <manufacturer>Google</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>HTCVR1</id>
+        <name>HTC Virtual Reality Bundles</name>
+        <price>499.99</price>
+        <image>HTC.jpg</image>
+        <category>Wearable</category>
+        <subcategory>Virtual Reality</subcategory>
+        <condition>New</condition>
+        <discount>100</discount>
+        <accessoryIds></accessoryIds>
+        <manufacturer>HTC</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>HTCVR2</id>
+        <name>Vive Pro</name>
+        <price>1399.99</price>
+        <image>HTCVivePro.jpg</image>
+        <category>Wearable</category>
+        <subcategory>Virtual Reality</subcategory>
+        <condition>New</condition>
+        <discount>0</discount>
+        <accessoryIds></accessoryIds>
+        <manufacturer>HTC</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>Hyper1</id>
+        <name>WiredX2</name>
+        <price>59.99</price>
+        <image>hyperX2.jpg</image>
+        <category>Wearable</category>
+        <subcategory>Headphone</subcategory>
+        <condition>New</condition>
+        <discount>0</discount>
+        <accessoryIds>HeadphoneAcc1</accessoryIds>
+        <manufacturer>HyperX</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>Iphone6s</id>
+        <name>iPhone 6S 64G</name>
+        <price>599.99</price>
+        <image>6s.jpg</image>
+        <category>Phone</category>
+        <subcategory></subcategory>
+        <condition>New</condition>
+        <discount>100</discount>
+        <accessoryIds>IPhoneUSB</accessoryIds>
+        <manufacturer>Apple</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>Iphone6sPlus</id>
+        <name>iPhone 6S Plus 64G</name>
+        <price>599.99</price>
+        <image>6sPlus.jpg</image>
+        <category>Phone</category>
+        <subcategory></subcategory>
+        <condition>Used</condition>
+        <discount>200</discount>
+        <accessoryIds>IPhoneUSB</accessoryIds>
+        <manufacturer>Apple</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>Iphone7</id>
+        <name>iPhone 7 32G</name>
+        <price>599.99</price>
+        <image>iphone7.jpg</image>
+        <category>Phone</category>
+        <subcategory></subcategory>
+        <condition>New</condition>
+        <discount>50</discount>
+        <accessoryIds>IPhoneUSB</accessoryIds>
+        <manufacturer>Apple</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>Iphone7Plus</id>
+        <name>iPhone 7 Plus 64G</name>
+        <price>719.99</price>
+        <image>7plus.jpg</image>
+        <category>Phone</category>
+        <subcategory></subcategory>
+        <condition>New</condition>
+        <discount>150</discount>
+        <accessoryIds>IPhoneUSB</accessoryIds>
+        <manufacturer>Apple</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>Iphone8Plus1</id>
+        <name>iPhone 8 Plus 32G</name>
+        <price>699.99</price>
+        <image>8plus.jpg</image>
+        <category>Phone</category>
+        <subcategory></subcategory>
+        <condition>New</condition>
+        <discount>0</discount>
+        <accessoryIds>IPhoneUSB</accessoryIds>
+        <manufacturer>Apple</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>Iphone8Plus2</id>
+        <name>iPhone 8 PLus 64G</name>
+        <price>799.99</price>
+        <image>8plus64G.jpg</image>
+        <category>Phone</category>
+        <subcategory></subcategory>
+        <condition>New</condition>
+        <discount>50</discount>
+        <accessoryIds>IPhoneUSB</accessoryIds>
+        <manufacturer>Apple</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>IPhoneUSB</id>
+        <name>IPhone USB Cable</name>
+        <price>29.99</price>
+        <image>iphoneUSBCable.jpg</image>
+        <category>Accessory</category>
+        <subcategory></subcategory>
+        <condition>New</condition>
+        <discount>0</discount>
+        <accessoryIds></accessoryIds>
+        <manufacturer>Apple</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>IphoneX</id>
+        <name>iPhone X</name>
+        <price>899.99</price>
+        <image>iphoneX.jpg</image>
+        <category>Phone</category>
+        <subcategory></subcategory>
+        <condition>New</condition>
+        <discount>0</discount>
+        <accessoryIds>IPhoneUSB</accessoryIds>
+        <manufacturer>Apple</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>IphoneXR</id>
+        <name>iPhone XR</name>
+        <price>999.99</price>
+        <image>iphoneXR.jpg</image>
+        <category>Phone</category>
+        <subcategory></subcategory>
+        <condition>New</condition>
+        <discount>0</discount>
+        <accessoryIds>IPhoneUSB</accessoryIds>
+        <manufacturer>Apple</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>IphoneXS</id>
+        <name>iPhone XS</name>
+        <price>1099.99</price>
+        <image>iphoneXS.jpg</image>
+        <category>Phone</category>
+        <subcategory></subcategory>
+        <condition>New</condition>
+        <discount>0</discount>
+        <accessoryIds>IPhoneUSB</accessoryIds>
+        <manufacturer>Apple</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>IphoneXSMax</id>
+        <name>iPhone XS MAX</name>
+        <price>1199.99</price>
+        <image>iphoneXSMax.jpg</image>
+        <category>Phone</category>
+        <subcategory></subcategory>
+        <condition>New</condition>
+        <discount>0</discount>
+        <accessoryIds>IPhoneUSB</accessoryIds>
+        <manufacturer>Apple</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>LenovoVR</id>
+        <name>Mirage Solo</name>
+        <price>399.99</price>
+        <image>lenovoMirage.jpg</image>
+        <category>Wearable</category>
+        <subcategory>Virtual Reality</subcategory>
+        <condition>New</condition>
+        <discount>50</discount>
+        <accessoryIds></accessoryIds>
+        <manufacturer>Lenovo</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>Logitech1</id>
+        <name>G 43</name>
+        <price>179.99</price>
+        <image>g43.jpg</image>
+        <category>Wearable</category>
+        <subcategory>Headphone</subcategory>
+        <condition>New</condition>
+        <discount>0</discount>
+        <accessoryIds>HeadphoneAcc1</accessoryIds>
+        <manufacturer>Logitech</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>Logitech2</id>
+        <name>G 233</name>
+        <price>79.99</price>
+        <image>g233.jpg</image>
+        <category>Wearable</category>
+        <subcategory>Headphone</subcategory>
+        <condition>New</condition>
+        <discount>5</discount>
+        <accessoryIds>HeadphoneAcc1</accessoryIds>
+        <manufacturer>Logitech</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>Logitech3</id>
+        <name>G 433</name>
+        <price>99.99</price>
+        <image>g433.jpg</image>
+        <category>Wearable</category>
+        <subcategory>Headphone</subcategory>
+        <condition>New</condition>
+        <discount>0</discount>
+        <accessoryIds>HeadphoneAcc1</accessoryIds>
+        <manufacturer>Logitech</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>MacAdapter</id>
+        <name>USB-C Digital Plug</name>
+        <price>99.99</price>
+        <image>macAdapter.jpg</image>
+        <category>Accessory</category>
+        <subcategory></subcategory>
+        <condition>New</condition>
+        <discount>0</discount>
+        <accessoryIds></accessoryIds>
+        <manufacturer>Apple</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>MacBook256Storage</id>
+        <name>MacBook 256GB</name>
+        <price>1299.99</price>
+        <image>macbook256.jpg</image>
+        <category>Laptop</category>
+        <subcategory></subcategory>
+        <condition>New</condition>
+        <discount>100</discount>
+        <accessoryIds>MacUSBtoUSBAdapter,MacAdapter</accessoryIds>
+        <manufacturer>Apple</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>MacBook512Storage</id>
+        <name>MacBook 512GB</name>
+        <price>1499.99</price>
+        <image>macbook256.jpg</image>
+        <category>Laptop</category>
+        <subcategory></subcategory>
+        <condition>New</condition>
+        <discount>50</discount>
+        <accessoryIds>MacUSBtoUSBAdapter,MacAdapter</accessoryIds>
+        <manufacturer>Apple</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>MacBookAir256Storage</id>
+        <name>MacBook Air</name>
+        <price>799.99</price>
+        <image>macbookAir256.jpg</image>
+        <category>Laptop</category>
+        <subcategory></subcategory>
+        <condition>used</condition>
+        <discount>200</discount>
+        <accessoryIds>MacUSBtoUSBAdapter,MacAdapter</accessoryIds>
+        <manufacturer>Apple</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>MacBookAir512Storage</id>
+        <name>MacBook 512GB</name>
+        <price>899.99</price>
+        <image>macbookAir512.jpg</image>
+        <category>Laptop</category>
+        <subcategory></subcategory>
+        <condition>New</condition>
+        <discount>100</discount>
+        <accessoryIds>MacUSBtoUSBAdapter,MacAdapter</accessoryIds>
+        <manufacturer>Apple</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>98</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>MacBookPro256Storage</id>
+        <name>MacBook Pro 256GB</name>
+        <price>2399.99</price>
+        <image>macbookPro256.jpg</image>
+        <category>Laptop</category>
+        <subcategory></subcategory>
+        <condition>New</condition>
+        <discount>0</discount>
+        <accessoryIds>MacUSBtoUSBAdapter,MacAdapter</accessoryIds>
+        <manufacturer>Apple</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>MacBookPro512Storage</id>
+        <name>MacBook Pro 512GB</name>
+        <price>2799.99</price>
+        <image>macbookPro512.jpg</image>
+        <category>Laptop</category>
+        <subcategory></subcategory>
+        <condition>New</condition>
+        <discount>200</discount>
+        <accessoryIds>MacUSBtoUSBAdapter,MacAdapter</accessoryIds>
+        <manufacturer>Apple</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>MacUSBtoUSBAdapter</id>
+        <name>USB Adapter</name>
+        <price>19.99</price>
+        <image>MacUSBtoUSBAdapter.jpg</image>
+        <category>Accessory</category>
+        <subcategory></subcategory>
+        <condition>New</condition>
+        <discount>0</discount>
+        <accessoryIds></accessoryIds>
+        <manufacturer>Apple</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>99</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>Motorola1</id>
+        <name>Moto 360</name>
+        <price>199.99</price>
+        <image>moto360.jpg</image>
+        <category>Wearable</category>
+        <subcategory>Smart Watches</subcategory>
+        <condition>New</condition>
+        <discount>10</discount>
+        <accessoryIds></accessoryIds>
+        <manufacturer>Motorola</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>99</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>NewLock</id>
+        <name>Loc8tor</name>
+        <price>99</price>
+        <image>NewLock.jpg</image>
+        <category>Wearable</category>
+        <subcategory>Pet Tracker</subcategory>
+        <condition>New</condition>
+        <discount>0</discount>
+        <accessoryIds></accessoryIds>
+        <manufacturer>Motorola</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>NvidiaVR</id>
+        <name>GeForce GTX</name>
+        <price>299.99</price>
+        <image>nvidiaGeForce.jpg</image>
+        <category>Wearable</category>
+        <subcategory>Virtual Reality</subcategory>
+        <condition>New</condition>
+        <discount>30</discount>
+        <accessoryIds></accessoryIds>
+        <manufacturer>Nvidia</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>Oculus1</id>
+        <name>Rift</name>
+        <price>399.99</price>
+        <image>oculusRift.jpg</image>
+        <category>Wearable</category>
+        <subcategory>Virtual Reality</subcategory>
+        <condition>New</condition>
+        <discount>30</discount>
+        <accessoryIds></accessoryIds>
+        <manufacturer>Oculus</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>Oculus2</id>
+        <name>Oculus Go</name>
+        <price>249.99</price>
+        <image>oculusGo.jpg</image>
+        <category>Wearable</category>
+        <subcategory>Virtual Reality</subcategory>
+        <condition>New</condition>
+        <discount>0</discount>
+        <accessoryIds></accessoryIds>
+        <manufacturer>Oculus</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>Oculus3</id>
+        <name>Sensor for Rift</name>
+        <price>59.99</price>
+        <image>oculusSensor.jpg</image>
+        <category>Wearable</category>
+        <subcategory>Virtual Reality</subcategory>
+        <condition>New</condition>
+        <discount>0</discount>
+        <accessoryIds></accessoryIds>
+        <manufacturer>Oculus</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>Polar1</id>
+        <name>M430</name>
+        <price>249.95</price>
+        <image>polarM430.jpg</image>
+        <category>Wearable</category>
+        <subcategory>Fitness Watches</subcategory>
+        <condition>New</condition>
+        <discount>10</discount>
+        <accessoryIds></accessoryIds>
+        <manufacturer>Polar</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>Polar2</id>
+        <name>M200</name>
+        <price>99.95</price>
+        <image>polarM200.jpg</image>
+        <category>Wearable</category>
+        <subcategory>Fitness Watches</subcategory>
+        <condition>New</condition>
+        <discount>10</discount>
+        <accessoryIds></accessoryIds>
+        <manufacturer>Polar</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>PortableCharger</id>
+        <name>Portable Charger</name>
+        <price>99.99</price>
+        <image>portableCharger.jpg</image>
+        <category>Accessory</category>
+        <subcategory></subcategory>
+        <condition>New</condition>
+        <discount>5</discount>
+        <accessoryIds></accessoryIds>
+        <manufacturer>DTWest</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>Prooftracker1</id>
+        <name>Bean Pet</name>
+        <price>49</price>
+        <image>proofBeanPet.jpg</image>
+        <category>Wearable</category>
+        <subcategory>Pet Tracker</subcategory>
+        <condition>New</condition>
+        <discount>0</discount>
+        <accessoryIds></accessoryIds>
+        <manufacturer>Proof</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>Prooftracker2</id>
+        <name>Pea Pet</name>
+        <price>39</price>
+        <image>proofPeaPet.jpg</image>
+        <category>Wearable</category>
+        <subcategory>Pet Tracker</subcategory>
+        <condition>New</condition>
+        <discount>0</discount>
+        <accessoryIds></accessoryIds>
+        <manufacturer>Proof</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>Razer</id>
+        <name>Dynamic MH30</name>
+        <price>499.99</price>
+        <image>pro2.jpg</image>
+        <category>Wearable</category>
+        <subcategory>Headphone</subcategory>
+        <condition>New</condition>
+        <discount>0</discount>
+        <accessoryIds>HeadphoneAcc1</accessoryIds>
+        <manufacturer></manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>samAdaptor</id>
+        <name>PC Adpator</name>
+        <price>59.99</price>
+        <image>samAdaptor.jpg</image>
+        <category>Accessory</category>
+        <subcategory></subcategory>
+        <condition>New</condition>
+        <discount>0</discount>
+        <accessoryIds></accessoryIds>
+        <manufacturer>Insignia</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>samPhoneCharger</id>
+        <name>Phone Adapter</name>
+        <price>29.99</price>
+        <image>samAdapter.jpg</image>
+        <category>Accessory</category>
+        <subcategory></subcategory>
+        <condition>New</condition>
+        <discount>0</discount>
+        <accessoryIds></accessoryIds>
+        <manufacturer>Samsung</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>Samsung Phone1</id>
+        <name>Galaxy S8</name>
+        <price>599.99</price>
+        <image>samPhone1.jpg</image>
+        <category>Phone</category>
+        <subcategory></subcategory>
+        <condition>New</condition>
+        <discount>149</discount>
+        <accessoryIds>samPhoneCharger</accessoryIds>
+        <manufacturer>Samsung</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>Samsung Phone10</id>
+        <name>Samsung Simple</name>
+        <price>99.99</price>
+        <image>samPhoneSimple.jpg</image>
+        <category>Phone</category>
+        <subcategory></subcategory>
+        <condition>New</condition>
+        <discount>0</discount>
+        <accessoryIds>samPhoneCharger</accessoryIds>
+        <manufacturer>Samsung</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>Samsung Phone2</id>
+        <name>Galaxy Note8</name>
+        <price>849.99</price>
+        <image>samPhoneNote8.jpg</image>
+        <category>Phone</category>
+        <subcategory></subcategory>
+        <condition>Used</condition>
+        <discount>200</discount>
+        <accessoryIds>samPhoneCharger</accessoryIds>
+        <manufacturer>Samsung</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>Samsung Phone3</id>
+        <name>Galaxy S9</name>
+        <price>839.99</price>
+        <image>samPhoneS9.jpg</image>
+        <category>Phone</category>
+        <subcategory></subcategory>
+        <condition>New</condition>
+        <discount>0</discount>
+        <accessoryIds>samPhoneCharger</accessoryIds>
+        <manufacturer>Samsung</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>Samsung Phone4</id>
+        <name>Galaxy J7</name>
+        <price>239.99</price>
+        <image>samPhoneJ7.jpg</image>
+        <category>Phone</category>
+        <subcategory></subcategory>
+        <condition>New</condition>
+        <discount>0</discount>
+        <accessoryIds>samPhoneCharger</accessoryIds>
+        <manufacturer>Samsung</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>Samsung Phone5</id>
+        <name>Galaxy J3</name>
+        <price>149.99</price>
+        <image>samPhoneJ3.jpg</image>
+        <category>Phone</category>
+        <subcategory></subcategory>
+        <condition>New</condition>
+        <discount>0</discount>
+        <accessoryIds>samPhoneCharger</accessoryIds>
+        <manufacturer>Samsung</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>Samsung Phone6</id>
+        <name>Galaxy Note9</name>
+        <price>999.99</price>
+        <image>samPhoneNote9.jpg</image>
+        <category>Phone</category>
+        <subcategory></subcategory>
+        <condition>Used</condition>
+        <discount>300</discount>
+        <accessoryIds>samPhoneCharger</accessoryIds>
+        <manufacturer>Samsung</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>Samsung Phone7</id>
+        <name>J7 Pro</name>
+        <price>149.99</price>
+        <image>samPhoneJ7Pro.jpg</image>
+        <category>Phone</category>
+        <subcategory></subcategory>
+        <condition>New</condition>
+        <discount>0</discount>
+        <accessoryIds>samPhoneCharger</accessoryIds>
+        <manufacturer>Samsung</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>Samsung Phone8</id>
+        <name>J5 Pro</name>
+        <price>219.99</price>
+        <image>samPhoneJ5Pro.jpg</image>
+        <category>Phone</category>
+        <subcategory></subcategory>
+        <condition>New</condition>
+        <discount>0</discount>
+        <accessoryIds>samPhoneCharger</accessoryIds>
+        <manufacturer>Samsung</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>Samsung Phone9</id>
+        <name>J5</name>
+        <price>149.99</price>
+        <image>samPhoneJ5.jpg</image>
+        <category>Phone</category>
+        <subcategory></subcategory>
+        <condition>New</condition>
+        <discount>0</discount>
+        <accessoryIds>samPhoneCharger</accessoryIds>
+        <manufacturer>Samsung</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>Samsung1</id>
+        <name>Gear S</name>
+        <price>399.99</price>
+        <image>gearS3.jpg</image>
+        <category>Wearable</category>
+        <subcategory>Smart Watches</subcategory>
+        <condition>New</condition>
+        <discount>0</discount>
+        <accessoryIds>samWatchCharger</accessoryIds>
+        <manufacturer>Samsung</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>Samsung2</id>
+        <name>Galaxy Watch</name>
+        <price>399.99</price>
+        <image>galaxy.jpg</image>
+        <category>Wearable</category>
+        <subcategory>Smart Watches</subcategory>
+        <condition>New</condition>
+        <discount>20</discount>
+        <accessoryIds>samWatchCharger</accessoryIds>
+        <manufacturer>Samsung</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>SamsungNotebook5</id>
+        <name>Notebook 5 256GB</name>
+        <price>799.99</price>
+        <image>samNotebook5256.jpg</image>
+        <category>Laptop</category>
+        <subcategory></subcategory>
+        <condition>New</condition>
+        <discount>100</discount>
+        <accessoryIds>samAdaptor</accessoryIds>
+        <manufacturer>Samsung</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>SamsungNotebook7256Storage</id>
+        <name>Notebook 7 256GB</name>
+        <price>899.99</price>
+        <image>samNotebook7256.jpg</image>
+        <category>Laptop</category>
+        <subcategory></subcategory>
+        <condition>Used</condition>
+        <discount>300</discount>
+        <accessoryIds>samAdaptor</accessoryIds>
+        <manufacturer>Samsung</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>SamsungNotebook7512Storage</id>
+        <name>Notebook 7 512GB</name>
+        <price>1499.99</price>
+        <image>samNotebook7256.jpg</image>
+        <category>Laptop</category>
+        <subcategory></subcategory>
+        <condition>Used</condition>
+        <discount>300</discount>
+        <accessoryIds>samAdaptor</accessoryIds>
+        <manufacturer>Samsung</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>SamsungNotebook9Pro256Storage</id>
+        <name>Notebook 9 Pro 256GB</name>
+        <price>1399.99</price>
+        <image>samNotebook9Pro.jpg</image>
+        <category>Laptop</category>
+        <subcategory></subcategory>
+        <condition>New</condition>
+        <discount>0</discount>
+        <accessoryIds>samAdaptor</accessoryIds>
+        <manufacturer>Samsung</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>SamsungVR1</id>
+        <name>HMD</name>
+        <price>399.99</price>
+        <image>samsungHMD.jpg</image>
+        <category>Wearable</category>
+        <subcategory>Virtual Reality</subcategory>
+        <condition>New</condition>
+        <discount>0</discount>
+        <accessoryIds></accessoryIds>
+        <manufacturer>Samsung</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>samWatchCharger</id>
+        <name>Samsung Watch Charger</name>
+        <price>19.99</price>
+        <image>samWatchCharger.jpg</image>
+        <category>Accessory</category>
+        <subcategory></subcategory>
+        <condition>New</condition>
+        <discount>0</discount>
+        <accessoryIds></accessoryIds>
+        <manufacturer>Samsung</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>SmartDog</id>
+        <name>Smart Dog</name>
+        <price>49</price>
+        <image>smartDog.jpg</image>
+        <category>Wearable</category>
+        <subcategory>Pet Tracker</subcategory>
+        <condition>New</condition>
+        <discount>5</discount>
+        <accessoryIds></accessoryIds>
+        <manufacturer>SmartDog</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>smartisan101</id>
+        <name>Smartisan T1</name>
+        <price>799</price>
+        <image>notfound.png</image>
+        <category>phone</category>
+        <subcategory>Smart Phone</subcategory>
+        <condition>New</condition>
+        <discount>0</discount>
+        <accessoryIds>PortableCharger,samPhoneCharger</accessoryIds>
+        <manufacturer>Smartisan</manufacturer>
+        <manufacturerRebate>99.99</manufacturerRebate>
+        <inventoryCount>77</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>SmartKey</id>
+        <name>M250</name>
+        <price>16.49</price>
+        <image>smartKey.jpg</image>
+        <category>Wearable</category>
+        <subcategory>Pet Tracker</subcategory>
+        <condition>New</condition>
+        <discount>0</discount>
+        <accessoryIds></accessoryIds>
+        <manufacturer>SmartKey</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>SmartTracker</id>
+        <name>Tracker 220</name>
+        <price>19.9</price>
+        <image>smartTracker.jpg</image>
+        <category>Wearable</category>
+        <subcategory>Pet Tracker</subcategory>
+        <condition>New</condition>
+        <discount>0</discount>
+        <accessoryIds></accessoryIds>
+        <manufacturer>SmartT</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>Sony1</id>
+        <name>H900N</name>
+        <price>299.99</price>
+        <image>sonyH900N.jpg</image>
+        <category>Wearable</category>
+        <subcategory>Headphone</subcategory>
+        <condition>New</condition>
+        <discount>0</discount>
+        <accessoryIds>HeadphoneAcc1</accessoryIds>
+        <manufacturer>Sony</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>Sony2</id>
+        <name>1000XM2</name>
+        <price>349.99</price>
+        <image>sony1000XM2.jpg</image>
+        <category>Wearable</category>
+        <subcategory>Headphone</subcategory>
+        <condition>New</condition>
+        <discount>0</discount>
+        <accessoryIds>HeadphoneAcc1</accessoryIds>
+        <manufacturer>Sony</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>SonyVR1</id>
+        <name>Play Station</name>
+        <price>99.99</price>
+        <image>sonyPlayStation.jpg</image>
+        <category>Wearable</category>
+        <subcategory>Virtual Reality</subcategory>
+        <condition>New</condition>
+        <discount>0</discount>
+        <accessoryIds></accessoryIds>
+        <manufacturer>Sony</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>SPlus</id>
+        <name>Cruz Hybrid wearable</name>
+        <price>99.99</price>
+        <image>sPlus.jpg</image>
+        <category>Wearable</category>
+        <subcategory>Smart Watches</subcategory>
+        <condition>New</condition>
+        <discount>20</discount>
+        <accessoryIds></accessoryIds>
+        <manufacturer>SPlus</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>Tile Spot</id>
+        <name>Key Finder</name>
+        <price>34.99</price>
+        <image>keyFinder.jpg</image>
+        <category>Wearable</category>
+        <subcategory>Pet Tracker</subcategory>
+        <condition>New</condition>
+        <discount>0</discount>
+        <accessoryIds></accessoryIds>
+        <manufacturer>TileSpot</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>99</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>TouchScreen256Storage</id>
+        <name>TouchScreen Chromebook 256GB</name>
+        <price>529.99</price>
+        <image>samTouchScreenChromebook.jpg</image>
+        <category>Laptop</category>
+        <subcategory></subcategory>
+        <condition>New</condition>
+        <discount>200</discount>
+        <accessoryIds></accessoryIds>
+        <manufacturer>Samsung</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>TP-Link-Echo-Home</id>
+        <name>Smart Wi-fi Plug Mini</name>
+        <price>89.99</price>
+        <image>TP-Link-Echo-Home.jpg</image>
+        <category>Accessory</category>
+        <subcategory></subcategory>
+        <condition>New</condition>
+        <discount>20</discount>
+        <accessoryIds></accessoryIds>
+        <manufacturer>TPLink</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+
+    <Product>
+        <id>Whistle</id>
+        <name>Whistle 3 GPS</name>
+        <price>79.99</price>
+        <image>whistle3.jpg</image>
+        <category>Wearable</category>
+        <subcategory>Pet Tracker</subcategory>
+        <condition>New</condition>
+        <discount>0</discount>
+        <accessoryIds></accessoryIds>
+        <manufacturer>Whistle</manufacturer>
+        <manufacturerRebate>0</manufacturerRebate>
+        <inventoryCount>100</inventoryCount>
+    </Product>
+</ProductCatalog>
